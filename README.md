@@ -1,5 +1,4 @@
 ## I am Brandon Hernández, a student majoring in Computer Technology 👋
-
 ### SOFT SKILLS
 **Self-taught** 📕💡
 
