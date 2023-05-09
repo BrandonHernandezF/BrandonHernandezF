@@ -1,5 +1,4 @@
 ## I am Brandon Hernández, a student majoring in Computer Technology 👋
-### SOFT SKILLS
 **Self-taught** 📕💡
 
 While I am working, if I do not understand a concept or a topic, I start to investigate about it by myself on internet (videos, articles, blogs). I really enjoy doing research and catch information.
