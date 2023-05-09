@@ -5,10 +5,26 @@
 
 While I am working, if I do not understand a concept or a topic, I start to investigate about it by myself on internet (videos, articles, blogs). I really enjoy doing research and catch information.
 
+**Entrepreneurial spirit**  🧐
+
+Investigate and find technological solutions to solve problems. 
+
+
 **Perseverance** 🌄
 
 If I face a problem, I do not get up early. I try to find the solution as soon as possible, or take my time to resolve the problem. After many attempts, I get success.
 
+**Leadership**  🗣
+
+I am usually selected as a leader for a team. I coordinate my team to achieve easily the objectives and encourage them to give their best.
+
+**Cooperation**  🤝
+
+Colaborate with team partners, sharing points of view and giving the best possible resolution.
+
+
+
+----------------------
 ### Here you can see the projects I have done throughout my college career. 👀
 **[Technological entrepreneurship | AquaBG](https://drive.google.com/drive/folders/1unbCDpWZfNGpRJvqhPXT_xamsosk_Q2j?usp=share_link)** 💧
 *IoT Automation System, C, Leader, Swift*
@@ -39,11 +55,14 @@ Description: The problems generated from the blockade of the Suez Canal and how 
 
 Description: Business network dedicated to the interconnection of devices from different points of the Mexican Republic, for a company. Created the scheme of the network and configured both routers and switches, with security in IP level to secure a better performance and protection.
 
+----------------------
+### Contests
 **3rd Place Microsoft AI Gaming Match Game Event**  👾🃏
 Python, Azure Computer Vision, Making pairs gaining the best score.
 
 **1st Place Mini-Hackaton organized by SAITC**  📱🚗
 ITESM, provided by Konfio and 3thons. Front End of drivers application.
+
 
 
 
