@@ -25,7 +25,7 @@ Colaborate with team partners, sharing points of view and giving the best possib
 ----------------------
 ### Here you can see the projects I have done throughout my college career. 👀
 **[Technological entrepreneurship | AquaBG](https://drive.google.com/drive/folders/1unbCDpWZfNGpRJvqhPXT_xamsosk_Q2j?usp=share_link)** 💧
-*IoT Automation System, C, Leader, Swift, React Native,, Firebase*
+*IoT Automation System, C, Leader, Swift, React Native, Firebase*
 
 Description: Creation of an automatic device managed by Wi-Fi capable of controlling the flow of water in the pipes, measuring the number of liters used and detecting leaks, all from your cell phone. Worked in the development of a physic prototype and programmed it in Arduino Language, which is based on C. Created one of the App designs in Figma, including interacting flows. Used SDK iOS 15, to have support on devices from iOS 9-15 in the market, which represents around 85% of the iPhones.
 
